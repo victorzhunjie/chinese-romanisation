@@ -1,0 +1,466 @@
+[
+   {
+      "column0": "_a",
+      "column1": "ァ"
+   },
+   {
+      "column0": "a",
+      "column1": "ア"
+   },
+   {
+      "column0": "_i",
+      "column1": "ィ"
+   },
+   {
+      "column0": "i",
+      "column1": "イ"
+   },
+   {
+      "column0": "_u",
+      "column1": "ゥ"
+   },
+   {
+      "column0": "u",
+      "column1": "ウ"
+   },
+   {
+      "column0": "_e",
+      "column1": "ェ"
+   },
+   {
+      "column0": "e",
+      "column1": "エ"
+   },
+   {
+      "column0": "_o",
+      "column1": "ォ"
+   },
+   {
+      "column0": "o",
+      "column1": "オ"
+   },
+   {
+      "column0": "ka",
+      "column1": "カ"
+   },
+   {
+      "column0": "ga",
+      "column1": "ガ"
+   },
+   {
+      "column0": "ki",
+      "column1": "キ"
+   },
+   {
+      "column0": "gi",
+      "column1": "ギ"
+   },
+   {
+      "column0": "ku",
+      "column1": "ク"
+   },
+   {
+      "column0": "gu",
+      "column1": "グ"
+   },
+   {
+      "column0": "ke",
+      "column1": "ケ"
+   },
+   {
+      "column0": "ge",
+      "column1": "ゲ"
+   },
+   {
+      "column0": "ko",
+      "column1": "コ"
+   },
+   {
+      "column0": "go",
+      "column1": "ゴ"
+   },
+   {
+      "column0": "sa",
+      "column1": "サ"
+   },
+   {
+      "column0": "za",
+      "column1": "ザ"
+   },
+   {
+      "column0": "shi",
+      "column1": "シ"
+   },
+   {
+      "column0": "ji",
+      "column1": "ジ"
+   },
+   {
+      "column0": "su",
+      "column1": "ス"
+   },
+   {
+      "column0": "zu",
+      "column1": "ズ"
+   },
+   {
+      "column0": "se",
+      "column1": "セ"
+   },
+   {
+      "column0": "ze",
+      "column1": "ゼ"
+   },
+   {
+      "column0": "so",
+      "column1": "ソ"
+   },
+   {
+      "column0": "zo",
+      "column1": "ゾ"
+   },
+   {
+      "column0": "ta",
+      "column1": "タ"
+   },
+   {
+      "column0": "da",
+      "column1": "ダ"
+   },
+   {
+      "column0": "chi",
+      "column1": "チ"
+   },
+   {
+      "column0": "zi",
+      "column1": "ヂ"
+   },
+   {
+      "column0": "_tsu",
+      "column1": "ッ"
+   },
+   {
+      "column0": "tsu",
+      "column1": "ツ"
+   },
+   {
+      "column0": "zu",
+      "column1": "ヅ"
+   },
+   {
+      "column0": "te",
+      "column1": "テ"
+   },
+   {
+      "column0": "de",
+      "column1": "デ"
+   },
+   {
+      "column0": "to",
+      "column1": "ト"
+   },
+   {
+      "column0": "do",
+      "column1": "ド"
+   },
+   {
+      "column0": "na",
+      "column1": "ナ"
+   },
+   {
+      "column0": "ni",
+      "column1": "ニ"
+   },
+   {
+      "column0": "nu",
+      "column1": "ヌ"
+   },
+   {
+      "column0": "ne",
+      "column1": "ネ"
+   },
+   {
+      "column0": "no",
+      "column1": "ノ"
+   },
+   {
+      "column0": "ha",
+      "column1": "ハ"
+   },
+   {
+      "column0": "ba",
+      "column1": "バ"
+   },
+   {
+      "column0": "pa",
+      "column1": "パ"
+   },
+   {
+      "column0": "hi",
+      "column1": "ヒ"
+   },
+   {
+      "column0": "bi",
+      "column1": "ビ"
+   },
+   {
+      "column0": "pi",
+      "column1": "ピ"
+   },
+   {
+      "column0": "fu",
+      "column1": "フ"
+   },
+   {
+      "column0": "bu",
+      "column1": "ブ"
+   },
+   {
+      "column0": "pu",
+      "column1": "プ"
+   },
+   {
+      "column0": "he",
+      "column1": "ヘ"
+   },
+   {
+      "column0": "be",
+      "column1": "ベ"
+   },
+   {
+      "column0": "pe",
+      "column1": "ペ"
+   },
+   {
+      "column0": "ho",
+      "column1": "ホ"
+   },
+   {
+      "column0": "bo",
+      "column1": "ボ"
+   },
+   {
+      "column0": "po",
+      "column1": "ポ"
+   },
+   {
+      "column0": "ma",
+      "column1": "マ"
+   },
+   {
+      "column0": "mi",
+      "column1": "ミ"
+   },
+   {
+      "column0": "mu",
+      "column1": "ム"
+   },
+   {
+      "column0": "me",
+      "column1": "メ"
+   },
+   {
+      "column0": "mo",
+      "column1": "モ"
+   },
+   {
+      "column0": "_ya",
+      "column1": "ャ"
+   },
+   {
+      "column0": "ya",
+      "column1": "ヤ"
+   },
+   {
+      "column0": "_yu",
+      "column1": "ュ"
+   },
+   {
+      "column0": "yu",
+      "column1": "ユ"
+   },
+   {
+      "column0": "_yo",
+      "column1": "ョ"
+   },
+   {
+      "column0": "yo",
+      "column1": "ヨ"
+   },
+   {
+      "column0": "ra",
+      "column1": "ラ"
+   },
+   {
+      "column0": "ri",
+      "column1": "リ"
+   },
+   {
+      "column0": "ru",
+      "column1": "ル"
+   },
+   {
+      "column0": "re",
+      "column1": "レ"
+   },
+   {
+      "column0": "ro",
+      "column1": "ロ"
+   },
+   {
+      "column0": "_wa",
+      "column1": "ヮ"
+   },
+   {
+      "column0": "wa",
+      "column1": "ワ"
+   },
+   {
+      "column0": "o",
+      "column1": "ヲ"
+   },
+   {
+      "column0": "n",
+      "column1": "ン"
+   },
+   {
+      "column0": "m",
+      "column1": "ン"
+   },
+   {
+      "column0": "kya",
+      "column1": "キャ"
+   },
+   {
+      "column0": "kyu",
+      "column1": "キュ"
+   },
+   {
+      "column0": "kyo",
+      "column1": "キョ"
+   },
+   {
+      "column0": "sha",
+      "column1": "シャ"
+   },
+   {
+      "column0": "shu",
+      "column1": "シュ"
+   },
+   {
+      "column0": "sho",
+      "column1": "ショ"
+   },
+   {
+      "column0": "cha",
+      "column1": "チャ"
+   },
+   {
+      "column0": "chu",
+      "column1": "チュ"
+   },
+   {
+      "column0": "cho",
+      "column1": "チョ"
+   },
+   {
+      "column0": "nya",
+      "column1": "ニャ"
+   },
+   {
+      "column0": "nyu",
+      "column1": "ニュ"
+   },
+   {
+      "column0": "nyo",
+      "column1": "ニョ"
+   },
+   {
+      "column0": "hya",
+      "column1": "ヒャ"
+   },
+   {
+      "column0": "hyu",
+      "column1": "ヒュ"
+   },
+   {
+      "column0": "hyo",
+      "column1": "ヒョ"
+   },
+   {
+      "column0": "mya",
+      "column1": "ミャ"
+   },
+   {
+      "column0": "myu",
+      "column1": "ミュ"
+   },
+   {
+      "column0": "myo",
+      "column1": "ミョ"
+   },
+   {
+      "column0": "rya",
+      "column1": "リャ"
+   },
+   {
+      "column0": "ryu",
+      "column1": "リュ"
+   },
+   {
+      "column0": "ryo",
+      "column1": "リョ"
+   },
+   {
+      "column0": "gya",
+      "column1": "ギャ"
+   },
+   {
+      "column0": "gyu",
+      "column1": "ギュ"
+   },
+   {
+      "column0": "gyo",
+      "column1": "ギョ"
+   },
+   {
+      "column0": "ja",
+      "column1": "ジャ"
+   },
+   {
+      "column0": "ju",
+      "column1": "ジュ"
+   },
+   {
+      "column0": "jo",
+      "column1": "ジョ"
+   },
+   {
+      "column0": "bya",
+      "column1": "ビャ"
+   },
+   {
+      "column0": "byu",
+      "column1": "ビュ"
+   },
+   {
+      "column0": "byo",
+      "column1": "ビョ"
+   },
+   {
+      "column0": "pya",
+      "column1": "ピャ"
+   },
+   {
+      "column0": "pyu",
+      "column1": "ピュ"
+   },
+   {
+      "column0": "pyo",
+      "column1": "ピョ"
+   },
+   {
+      "column0": "oo",
+      "column1": "オウ"
+   }
+]
