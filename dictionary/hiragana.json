@@ -1,0 +1,466 @@
+[
+   {
+      "column0": "_a",
+      "column1": "ぁ"
+   },
+   {
+      "column0": "a",
+      "column1": "あ"
+   },
+   {
+      "column0": "_i",
+      "column1": "ぃ"
+   },
+   {
+      "column0": "i",
+      "column1": "い"
+   },
+   {
+      "column0": "_u",
+      "column1": "ぅ"
+   },
+   {
+      "column0": "u",
+      "column1": "う"
+   },
+   {
+      "column0": "_e",
+      "column1": "ぇ"
+   },
+   {
+      "column0": "e",
+      "column1": "え"
+   },
+   {
+      "column0": "_o",
+      "column1": "ぉ"
+   },
+   {
+      "column0": "o",
+      "column1": "お"
+   },
+   {
+      "column0": "ka",
+      "column1": "か"
+   },
+   {
+      "column0": "ga",
+      "column1": "が"
+   },
+   {
+      "column0": "ki",
+      "column1": "き"
+   },
+   {
+      "column0": "gi",
+      "column1": "ぎ"
+   },
+   {
+      "column0": "ku",
+      "column1": "く"
+   },
+   {
+      "column0": "gu",
+      "column1": "ぐ"
+   },
+   {
+      "column0": "ke",
+      "column1": "け"
+   },
+   {
+      "column0": "ge",
+      "column1": "げ"
+   },
+   {
+      "column0": "ko",
+      "column1": "こ"
+   },
+   {
+      "column0": "go",
+      "column1": "ご"
+   },
+   {
+      "column0": "sa",
+      "column1": "さ"
+   },
+   {
+      "column0": "za",
+      "column1": "ざ"
+   },
+   {
+      "column0": "shi",
+      "column1": "し"
+   },
+   {
+      "column0": "ji",
+      "column1": "じ"
+   },
+   {
+      "column0": "su",
+      "column1": "す"
+   },
+   {
+      "column0": "zu",
+      "column1": "ず"
+   },
+   {
+      "column0": "se",
+      "column1": "せ"
+   },
+   {
+      "column0": "ze",
+      "column1": "ぜ"
+   },
+   {
+      "column0": "so",
+      "column1": "そ"
+   },
+   {
+      "column0": "zo",
+      "column1": "ぞ"
+   },
+   {
+      "column0": "ta",
+      "column1": "た"
+   },
+   {
+      "column0": "da",
+      "column1": "だ"
+   },
+   {
+      "column0": "chi",
+      "column1": "ち"
+   },
+   {
+      "column0": "zi",
+      "column1": "ぢ"
+   },
+   {
+      "column0": "_tsu",
+      "column1": "っ"
+   },
+   {
+      "column0": "tsu",
+      "column1": "つ"
+   },
+   {
+      "column0": "zu",
+      "column1": "づ"
+   },
+   {
+      "column0": "te",
+      "column1": "て"
+   },
+   {
+      "column0": "de",
+      "column1": "で"
+   },
+   {
+      "column0": "to",
+      "column1": "と"
+   },
+   {
+      "column0": "do",
+      "column1": "ど"
+   },
+   {
+      "column0": "na",
+      "column1": "な"
+   },
+   {
+      "column0": "ni",
+      "column1": "に"
+   },
+   {
+      "column0": "nu",
+      "column1": "ぬ"
+   },
+   {
+      "column0": "ne",
+      "column1": "ね"
+   },
+   {
+      "column0": "no",
+      "column1": "の"
+   },
+   {
+      "column0": "ha",
+      "column1": "は"
+   },
+   {
+      "column0": "ba",
+      "column1": "ば"
+   },
+   {
+      "column0": "pa",
+      "column1": "ぱ"
+   },
+   {
+      "column0": "hi",
+      "column1": "ひ"
+   },
+   {
+      "column0": "bi",
+      "column1": "び"
+   },
+   {
+      "column0": "pi",
+      "column1": "ぴ"
+   },
+   {
+      "column0": "fu",
+      "column1": "ふ"
+   },
+   {
+      "column0": "bu",
+      "column1": "ぶ"
+   },
+   {
+      "column0": "pu",
+      "column1": "ぷ"
+   },
+   {
+      "column0": "he",
+      "column1": "へ"
+   },
+   {
+      "column0": "be",
+      "column1": "べ"
+   },
+   {
+      "column0": "pe",
+      "column1": "ぺ"
+   },
+   {
+      "column0": "ho",
+      "column1": "ほ"
+   },
+   {
+      "column0": "bo",
+      "column1": "ぼ"
+   },
+   {
+      "column0": "po",
+      "column1": "ぽ"
+   },
+   {
+      "column0": "ma",
+      "column1": "ま"
+   },
+   {
+      "column0": "mi",
+      "column1": "み"
+   },
+   {
+      "column0": "mu",
+      "column1": "む"
+   },
+   {
+      "column0": "me",
+      "column1": "め"
+   },
+   {
+      "column0": "mo",
+      "column1": "も"
+   },
+   {
+      "column0": "_ya",
+      "column1": "ゃ"
+   },
+   {
+      "column0": "ya",
+      "column1": "や"
+   },
+   {
+      "column0": "_yu",
+      "column1": "ゅ"
+   },
+   {
+      "column0": "yu",
+      "column1": "ゆ"
+   },
+   {
+      "column0": "_yo",
+      "column1": "ょ"
+   },
+   {
+      "column0": "yo",
+      "column1": "よ"
+   },
+   {
+      "column0": "ra",
+      "column1": "ら"
+   },
+   {
+      "column0": "ri",
+      "column1": "り"
+   },
+   {
+      "column0": "ru",
+      "column1": "る"
+   },
+   {
+      "column0": "re",
+      "column1": "れ"
+   },
+   {
+      "column0": "ro",
+      "column1": "ろ"
+   },
+   {
+      "column0": "_wa",
+      "column1": "ゎ"
+   },
+   {
+      "column0": "wa",
+      "column1": "わ"
+   },
+   {
+      "column0": "o",
+      "column1": "を"
+   },
+   {
+      "column0": "n",
+      "column1": "ん"
+   },
+   {
+      "column0": "m",
+      "column1": "ん"
+   },
+   {
+      "column0": "kya",
+      "column1": "きゃ"
+   },
+   {
+      "column0": "kyu",
+      "column1": "きゅ"
+   },
+   {
+      "column0": "kyo",
+      "column1": "きょ"
+   },
+   {
+      "column0": "sha",
+      "column1": "しゃ"
+   },
+   {
+      "column0": "shu",
+      "column1": "しゅ"
+   },
+   {
+      "column0": "sho",
+      "column1": "しょ"
+   },
+   {
+      "column0": "cha",
+      "column1": "ちゃ"
+   },
+   {
+      "column0": "chu",
+      "column1": "ちゅ"
+   },
+   {
+      "column0": "cho",
+      "column1": "ちょ"
+   },
+   {
+      "column0": "nya",
+      "column1": "にゃ"
+   },
+   {
+      "column0": "nyu",
+      "column1": "にゅ"
+   },
+   {
+      "column0": "nyo",
+      "column1": "にょ"
+   },
+   {
+      "column0": "hya",
+      "column1": "ひゃ"
+   },
+   {
+      "column0": "hyu",
+      "column1": "ひゅ"
+   },
+   {
+      "column0": "hyo",
+      "column1": "ひょ"
+   },
+   {
+      "column0": "mya",
+      "column1": "みゃ"
+   },
+   {
+      "column0": "myu",
+      "column1": "みゅ"
+   },
+   {
+      "column0": "myo",
+      "column1": "みょ"
+   },
+   {
+      "column0": "rya",
+      "column1": "りゃ"
+   },
+   {
+      "column0": "ryu",
+      "column1": "りゅ"
+   },
+   {
+      "column0": "ryo",
+      "column1": "りょ"
+   },
+   {
+      "column0": "gya",
+      "column1": "ぎゃ"
+   },
+   {
+      "column0": "gyu",
+      "column1": "ぎゅ"
+   },
+   {
+      "column0": "gyo",
+      "column1": "ぎょ"
+   },
+   {
+      "column0": "ja",
+      "column1": "じゃ"
+   },
+   {
+      "column0": "ju",
+      "column1": "じゅ"
+   },
+   {
+      "column0": "jo",
+      "column1": "じょ"
+   },
+   {
+      "column0": "bya",
+      "column1": "びゃ"
+   },
+   {
+      "column0": "byu",
+      "column1": "びゅ"
+   },
+   {
+      "column0": "byo",
+      "column1": "びょ"
+   },
+   {
+      "column0": "pya",
+      "column1": "ぴゃ"
+   },
+   {
+      "column0": "pyu",
+      "column1": "ぴゅ"
+   },
+   {
+      "column0": "pyo",
+      "column1": "ぴょ"
+   },
+   {
+      "column0": "oo",
+      "column1": "おう"
+   }
+]
