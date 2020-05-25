@@ -2,7 +2,10 @@
 
 Simple phonetic romanisation and pinyin for Cantonese, Mandarin character.
 
-http://victorzhunjie.github.io/chinese-romanisation
+[victorzhunjie.github.io/chinese-romanisation/](http://victorzhunjie.github.io/chinese-romanisation/)
+
+### Screenshot
+<img src="/screenshot.png"/>
 
 ### How to Contribute
 
